@@ -75,7 +75,7 @@
     },
     "Note": "shx includes shelljs; tap-xunit for circleci/ava.",
     "dependencies": {
-        "three": "^0.120.0"
+        "three": "^0.125.0"
     },
     "devDependencies": {
         "ava": "^2.1.0",
